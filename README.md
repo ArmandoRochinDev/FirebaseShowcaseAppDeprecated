@@ -1,4 +1,4 @@
-# FirebaseShowcaseApp
+# FirebaseShowcaseApp DEPRECATED
 FirebaseShowcaseApp es una aplicacion de ejemplo para mostrar Firebase Auth, FirebaseCloudMessaging, FireStore, FireStorage, Analitycs, Crashlitycs, MVVM, Clean Architecture, Flows, LiveData, ViewState.
 
 ## Firebase
